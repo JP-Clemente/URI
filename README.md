@@ -1,2 +1,2 @@
 # URI
-Several URI Online Judge problems solutions coded by myself.
+Several URI Online Judge problems solved with code made by myself.
